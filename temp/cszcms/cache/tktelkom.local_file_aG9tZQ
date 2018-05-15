@@ -1,0 +1,27 @@
+a:3:{s:4:"time";i:1526356030;s:3:"ttl";i:60;s:4:"data";O:8:"stdClass":14:{s:8:"pages_id";s:1:"1";s:9:"page_name";s:4:"Home";s:8:"page_url";s:4:"home";s:8:"lang_iso";s:2:"id";s:10:"page_title";s:8:"CSZ Home";s:13:"page_keywords";s:121:"CMS, Contact Management System, HTML, CSS, JS, JavaScript, framework, bootstrap, web development, thai, english, homepage";s:9:"page_desc";s:42:"CSKAZA Template for Bootstrap with CSZ-CMS";s:7:"content";s:1634:"<header>[?]{=carousel:1}[?]</header>
+<div class="jumbotron">
+<div class="container">
+<h1>Hello, world!</h1>
+<p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more »</a></p>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-4">[?]{=widget:Berita}[?]<br>
+<h2>Heading</h2>
+<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+<p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+</div>
+<div class="col-md-4">
+<h2>Heading</h2>
+<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+<p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+</div>
+<div class="col-md-4">
+<h2>Heading</h2>
+<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+<p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+</div>
+</div>
+</div>";s:12:"more_metatag";s:0:"";s:10:"custom_css";s:0:"";s:9:"custom_js";s:0:"";s:6:"active";s:1:"1";s:16:"timestamp_create";s:19:"2016-03-08 10:12:56";s:16:"timestamp_update";s:19:"2018-04-12 17:11:16";}}

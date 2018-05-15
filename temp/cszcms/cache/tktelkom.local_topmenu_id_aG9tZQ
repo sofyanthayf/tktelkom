@@ -1,0 +1,3 @@
+a:3:{s:4:"time";i:1526356032;s:3:"ttl";i:60;s:4:"data";s:639:"<li><a id="active" href="http://tktelkom.local/home" title="Home">Home</a></li><li><a id="" href="http://tktelkom.local/about-us" title="About Us">About Us</a></li><li><a id="" href="http://tktelkom.local/contact-us" title="Contact Us">Contact Us</a></li><li class="dropdown">
+                        <a aria-expanded="true" aria-haspopup="true" role="button" data-toggle="dropdown" class="dropdown-toggle" href="#" title="Drop Menu">Drop Menu <span class="caret"></span></a>
+                        <ul class="dropdown-menu"><li><a href="https://www.cszcms.com" target="_blank" title="CSZ CMS Website">CSZ CMS Website</a></li></ul></li>";}

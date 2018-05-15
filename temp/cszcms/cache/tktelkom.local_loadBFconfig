@@ -1,0 +1,1 @@
+a:3:{s:4:"time";i:1526356032;s:3:"ttl";i:60;s:4:"data";O:8:"stdClass":5:{s:24:"login_security_config_id";s:1:"1";s:17:"bf_protect_period";s:2:"60";s:11:"max_failure";s:2:"20";s:14:"bf_private_key";s:0:"";s:16:"timestamp_update";s:19:"2018-04-12 14:53:09";}}
